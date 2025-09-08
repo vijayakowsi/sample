@@ -1,16 +1,17 @@
 {
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "site": {
-    "name": "Yext sample",
+    "name": "yext sample",
     "repoConfig": {
-      "targetRepo": "sample", 
+      "targetRepo": "sample",
       "templateRepo": "yext-pages-template"
     },
     "domains": [
       {
-        "domain": "sample.sbx.pgsite.com",
+        "domain": "sample.sbx.pgsdemo.com",
         "default": true
       }
     ]
   }
 }
+
