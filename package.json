@@ -1,0 +1,9 @@
+{
+  "name": "my-yext-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step needed' && exit 0",
+    "dev": "live-server ."
+  },
+  "dependencies": {}
+}
