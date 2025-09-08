@@ -1,14 +1,14 @@
 {
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "site": {
-    "name": "My Yext Sandbox Site",
+    "name": "yext sample",
     "repoConfig": {
       "targetRepo": "my-yext-site",
       "templateRepo": "yext-pages-template"
     },
     "domains": [
       {
-        "domain": "sample.sbx.pgsite.com",
+        "domain": "sample.sbx.pgsdemo.com",
         "default": true
       }
     ]
