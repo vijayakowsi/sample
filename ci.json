@@ -1,0 +1,8 @@
+{
+  "$schema": "https://schema.yext.com/config/ci/site/v1",
+  "siteName": "yext-sample",
+  "templateRepo": ".",
+  "rootDir": ".",
+  "buildCommand": "yext pages build",
+  "outputDir": ".pages-build"
+}
