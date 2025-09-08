@@ -1,0 +1,9 @@
+{
+  "api": {
+    "version": "20240901",
+    "domain": "sbx-api.yextapis.com"
+  },
+  "site": {
+    "root": "./"
+  }
+}
